@@ -20,7 +20,7 @@ This repository contains the code for a restaurant menu application developed us
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/Krystynka86/RestaurantMenuApp.git`
 2. Open the project in your preferred IDE.
 3. Build and run the application on an Android device or emulator.
 
